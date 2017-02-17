@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/background.png</file>
+        <file>images/blackchess.png</file>
+        <file>images/checkerboard.png</file>
+        <file>images/whitechess.png</file>
+        <file>ControlButton.qml</file>
+        <file>logic.js</file>
+        <file>Chessman.qml</file>
+        <file>MsgDialog.qml</file>
+    </qresource>
+</RCC>
