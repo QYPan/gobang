@@ -19,9 +19,11 @@ gobang
 ###功能演示
 ![image](https://github.com/QYPan/gobang/blob/master/example.gif)
 
-###相关个人博客链接
-* 极大极小搜索 http://blog.csdn.net/u013351484/article/details/50985633 
-* alpha-beta 剪枝 http://blog.csdn.net/u013351484/article/details/51417641
+###相关博客链接
+* 极大极小搜索、alpha-beta 剪枝 http://blog.csdn.net/u013351484/article/details/50789521
+* 五子棋思路
+  (1) http://blog.csdn.net/u013351484/article/details/50985633
+  (2) http://blog.csdn.net/u013351484/article/details/51417641
 
 ###注意
 * 博客链接里的作品可能已经失效或无法运行
