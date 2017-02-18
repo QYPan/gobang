@@ -17,7 +17,7 @@ gobang
 * 玩家不能悔棋
 
 ###功能演示
-![image](https://github.com/QYPan/gobang/blob/master/example.gif)
+![image](https://github.com/QYPan/dynamic_gif/blob/master/gobang/example.gif)
 
 ###相关博客链接
 * 极大极小搜索、alpha-beta 剪枝 <br>
