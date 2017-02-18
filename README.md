@@ -19,6 +19,14 @@ gobang
 ###功能演示
 ![image](https://github.com/QYPan/gobang/blob/master/example.gif)
 
+###相关个人博客链接
+* 极大极小搜索 http://blog.csdn.net/u013351484/article/details/50985633 
+* alpha-beta 剪枝 http://blog.csdn.net/u013351484/article/details/51417641
+
+###注意
+* 博客链接里的作品可能已经失效或无法运行
+* 搜索算法尚未完善，采用的是以前的代码，修改接口后直接编译；代码风格较差
+
 ###作品链接
 * 安卓客户端（android7.0 以下测试通过）：http://pan.baidu.com/s/1bpcimF9
 * windows 客户端（在 win7 系统下测试通过，免安装，解压后直接运行）：http://pan.baidu.com/s/1midROy0
