@@ -20,9 +20,10 @@ gobang
 ![image](https://github.com/QYPan/gobang/blob/master/example.gif)
 
 ###相关博客链接
-* 极大极小搜索、alpha-beta 剪枝 http://blog.csdn.net/u013351484/article/details/50789521
-* 五子棋思路
-  (1) http://blog.csdn.net/u013351484/article/details/50985633
+* 极大极小搜索、alpha-beta 剪枝 <br>
+  http://blog.csdn.net/u013351484/article/details/50789521
+* 五子棋思路 <br>
+  (1) http://blog.csdn.net/u013351484/article/details/50985633 <br>
   (2) http://blog.csdn.net/u013351484/article/details/51417641
 
 ###注意
